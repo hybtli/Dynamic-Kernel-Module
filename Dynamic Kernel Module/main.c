@@ -48,7 +48,7 @@ static void __exit modexit(void)
 module_init(modinit);
 module_exit(modexit);
 MODULE_VERSION("0.1");
-MODULE_DESCRIPTION("Getting memory usage for HW4 in CENG322 course.");
+MODULE_DESCRIPTION("Dynamic Kernel Module");
 MODULE_AUTHOR("Nurbala Heybatov");
 MODULE_LICENSE("GPL");
 
