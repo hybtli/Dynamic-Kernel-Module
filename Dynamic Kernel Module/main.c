@@ -1,4 +1,3 @@
-// Reference that I used: https://stackoverflow.com/questions/67224020/how-do-i-find-the-ram-usage-of-a-process-using-its-id
 #include <linux/kernel.h>       
 #include <linux/module.h>      
 #include <linux/init.h>        
